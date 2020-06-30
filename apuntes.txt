@@ -1,0 +1,4 @@
+#Añadir autenticación
+* Instalar paquetes 
+* Crear el modelo de usuario 
+* Añadir rutas sing in, log in, log out y middleware code para autenticación.

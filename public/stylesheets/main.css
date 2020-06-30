@@ -1,0 +1,59 @@
+body {
+    padding-top: 70px;
+}
+
+.jumbotron {
+    background-color: #19191921;
+}
+
+.container .jumbotron {
+    border-radius: 0 !important;
+}
+
+.delete {
+    display: inline;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail .caption-full {
+    padding: 0.563em;
+}
+
+.navbar-inverse {
+    background-color: #191919;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: rgb(209, 207, 207);
+}
+
+.navbar-inverse .navbar-brand {
+    color: rgb(209, 207, 207);
+}
+
+.btn-primary {
+    background-color: #191919;
+    border-color: #191919;
+}
+
+.btn-primary:hover, .btn-primary:active, .btn-primary:focus {
+    background-color: #363636;
+    border-color: #363636;
+}
+
+.list-group-item.active {
+    background-color: #191919;
+    border-color: #191919;
+}
+
+.list-group-item.active:hover {
+    background-color: #363636;
+    border-color: #363636;
+}
